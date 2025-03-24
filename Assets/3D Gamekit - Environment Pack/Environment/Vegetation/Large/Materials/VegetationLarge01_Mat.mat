@@ -617,7 +617,7 @@ Material:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _Color2: {r: 1, g: 1, b: 1, a: 1}
     - _ColorShift: {r: 0, g: 0, b: 0, a: 1}
-    - _Diffuse: {r: 0.4542987, g: 0.54821885, b: 0.7830189, a: 1}
+    - _Diffuse: {r: 0.79607844, g: 0.8039216, b: 0.84313726, a: 1}
     - _Diffuse2: {r: 1, g: 0.8946812, b: 0.8254717, a: 1}
     - _DiffusionProfileAsset: {r: 0, g: 0, b: 0, a: 0}
     - _DoubleSidedConstants: {r: 1, g: 1, b: -1, a: 0}
@@ -634,7 +634,7 @@ Material:
     - _Offset: {r: 0, g: 0, b: 0, a: 0}
     - _OutlineMaskColor: {r: 0, g: 0, b: 0, a: 1}
     - _Outline_Color: {r: 0.5, g: 0.5, b: 0.5, a: 1}
-    - _RimLightColor: {r: 0.4838466, g: 0.5907696, b: 0.6179246, a: 1}
+    - _RimLightColor: {r: 0.4009434, g: 0.4009434, b: 0.4009434, a: 1}
     - _RimLightMaskColor: {r: 1, g: 0, b: 1, a: 1}
     - _SecondShadeMaskColor: {r: 0, g: 0, b: 1, a: 1}
     - _ShadowColor: {r: 0.504717, g: 0.70283026, b: 1, a: 1}

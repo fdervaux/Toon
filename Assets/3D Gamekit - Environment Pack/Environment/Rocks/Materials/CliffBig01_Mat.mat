@@ -617,7 +617,7 @@ Material:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _Color2: {r: 1, g: 1, b: 1, a: 1}
     - _ColorShift: {r: 0, g: 0, b: 0, a: 1}
-    - _Diffuse: {r: 0.7783019, g: 0.67917854, b: 0.6130963, a: 1}
+    - _Diffuse: {r: 0.7965468, g: 0.80449516, b: 0.8443396, a: 1}
     - _Diffuse2: {r: 1, g: 0.8946812, b: 0.8254717, a: 1}
     - _DiffusionProfileAsset: {r: 0, g: 0, b: 0, a: 0}
     - _DoubleSidedConstants: {r: 1, g: 1, b: -1, a: 0}
