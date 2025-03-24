@@ -45,6 +45,6 @@ Material:
     m_Colors:
     - _Color: {r: 0.04209684, g: 0.0695847, b: 0.2028302, a: 0.6666667}
     - _DepthThreeshold: {r: 0.2, g: 0.21, b: 0, a: 0}
-    - _NormalThreeshold: {r: 0.5, g: 0.55, b: 0, a: 0}
+    - _NormalThreeshold: {r: 0.6, g: 0.65, b: 0, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
